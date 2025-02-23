@@ -1,4 +1,6 @@
-#     **Servers and Stuff** 
+#     **Aaron Adkins** 
 --------------------------------------------------
-###  [Home Assistant](https://home.aaronadkins.org)
-###  [Ollama](http://ollama.aaronadkins.org/ngrok)
+### Servers & Things
+----------------------------------------
+#####      [Home Assistant](https://home.aaronadkins.org)
+#####      [Ollama](http://ollama.aaronadkins.org/ngrok)
