@@ -6,4 +6,5 @@
 * A sub domain for my Home Assistant server/instance
 
 ### - [https://ollama.aaronadkins.org](https://ollama.aaronadkins.org) -
-* A sub domain for my Ollama server/instance 
+* A sub domain for my Ollama server/instance
+
