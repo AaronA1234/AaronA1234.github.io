@@ -1,6 +1,5 @@
-#     **Aaron Adkins** 
---------------------------------------------------
-### Servers & Things
-----------------------------------------
-#####      [Home Assistant](https://home.aaronadkins.org)
-#####      [Ollama](http://ollama.aaronadkins.org/ngrok)
+#     [Aaron Adkins](https://aaronadkins.org)
+--------------------------------------
+
+### https://aaronadkins.org -
+* A hosting platform for my Home Assistant/AI servers and/or more
